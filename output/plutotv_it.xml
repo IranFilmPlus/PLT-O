@@ -24437,6 +24437,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>¡FIFA+ te trae lo mejor de la Copa Mundial de la FIFA 2022 y la Copa Mundial Femenina de la FIFA 2023! Partidos en vivo, documentales y mucho más sobre tus futbolistas favoritos y sobre el fútbol de todas las partes del planeta.</desc>
         <icon src="https://images.pluto.tv/series/67b36ba596446070bd3d2f98/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="660c29f80cd4630008f1547c" start="20260519163300 +0000" stop="20260519183300 +0000">
+        <title>2022 FIFA World Cup</title>
+        <desc>Watch the full match replay between Morocco and Portugal played at Al Thumama Stadium.</desc>
+        <icon src="https://images.pluto.tv/series/67b36b6b96446070bd3cc358/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="66c45c0de7f5e80008b82005" start="20260519120000 +0000" stop="20260519130000 +0000">
         <title>Top stories from CNN</title>
         <desc>From the leader in global news, fast-paced videos featuring the latest stories on major events, business, entertainment, sport, and the environment.</desc>
